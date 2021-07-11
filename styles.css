@@ -1,0 +1,23 @@
+.column{
+  float: left;
+  width: 410px;
+  text-align: center;
+  padding: 10px;
+  border: 5px;
+  
+}
+body{
+  background-color: cornflowerblue;
+  text-align: center;
+  background-image: url("https://cdn07.allafrica.com/download/pic/main/main/csiid/00471607:4b3c73f8babcf80a930565efd00c906c:arc614x376:w1200.jpg");
+}
+.right{
+  float: right;
+  background-color: goldenrod;
+  width: 410px;
+  text-align: left;
+  padding: 4px;
+}
+h2{
+  text-align: center;
+}
